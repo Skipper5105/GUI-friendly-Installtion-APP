@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\multitool-ui-v1\multitool-ui-v1\bin\Debug\multitool-ui-v1.exe.config
+C:\Users\Admin\source\repos\multitool-ui-v1\multitool-ui-v1\bin\Debug\multitool-ui-v1.exe
+C:\Users\Admin\source\repos\multitool-ui-v1\multitool-ui-v1\bin\Debug\multitool-ui-v1.pdb
+C:\Users\Admin\source\repos\multitool-ui-v1\multitool-ui-v1\obj\Debug\multitool-ui-v1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\multitool-ui-v1\multitool-ui-v1\obj\Debug\multitool_ui_v1.Form1.resources
+C:\Users\Admin\source\repos\multitool-ui-v1\multitool-ui-v1\obj\Debug\multitool_ui_v1.Properties.Resources.resources
+C:\Users\Admin\source\repos\multitool-ui-v1\multitool-ui-v1\obj\Debug\multitool-ui-v1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\multitool-ui-v1\multitool-ui-v1\obj\Debug\multitool-ui-v1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\multitool-ui-v1\multitool-ui-v1\obj\Debug\multitool-ui-v1.exe
+C:\Users\Admin\source\repos\multitool-ui-v1\multitool-ui-v1\obj\Debug\multitool-ui-v1.pdb
+C:\Users\Admin\source\repos\multitool-ui-v1\multitool-ui-v1\obj\Debug\multitool-ui-v1.exe.config
